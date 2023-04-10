@@ -38,7 +38,7 @@
     pip install tgw<br> 
 （2）从wheel文件安装<br> 
     下载wheel文件后 pip install tgw-***.whl <br> 
-
+ 
 # 3.Python api调用的主要代码demo
 ```python
 # -*- coding: utf-8 -*-
