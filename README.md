@@ -38,7 +38,6 @@
 # -*- coding: utf-8 -*-
 from tgw import tgw
 import time
-import signal
 
 def Init():
     cfg = tgw.Cfg()
@@ -66,10 +65,6 @@ def Init():
         exit(-1)
 
 if __name__ == "__main__":
-    signal.signal(signal.SIGINT, CtrlC)
-    signal.signal(signal.SIGTERM, CtrlC)
-
-    g_is_running = True
     # ---------订阅spi实例---------
     spi = IAMDSpiApp()
 
