@@ -33,7 +33,13 @@
 *   实时推送港股通产品状态快照数据<br> 
 *   港股市场波动调节机制(VCM)推送数据<br> 
 
-# 2.Python api调用的主要代码demo
+# 2.Python 库安装
+（1）从pypi库安装<br> 
+    pip install tgw<br> 
+（2）从wheel文件安装<br> 
+    下载wheel文件后 pip install tgw-***.whl <br> 
+
+# 3.Python api调用的主要代码demo
 ```python
 # -*- coding: utf-8 -*-
 from tgw import tgw
@@ -105,13 +111,13 @@ if __name__ == "__main__":
     # 回放接口
     DealReplay()
 ```
-# 3.权限开通
+# 4.权限开通
 （1）试用权限开通，可登录官网自助注册<br/>
    官网： http://www.chinastock.com.cn/newsite/cgs-services/strategyTrade/geWuInstitution.html <br/>
    流程如下：<br/>
                        ![](https://github.com/tgw2023/tgw/blob/main/picture/%E8%AF%95%E7%94%A8%E8%B4%A6%E6%88%B7%E5%BC%80%E9%80%9A%E6%B5%81%E7%A8%8B.jpg) <br> 
 （2）正式权限开通请咨询中国银河证券营业部<br/>
-# 4.联系方式
+# 5.联系方式
 （1）格物官方联系企业微信：<br/>
              ![](https://github.com/tgw2023/tgw/blob/main/picture/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%B4%BB%E7%A0%81.png) <br> 
 （2）格物官方联系联系邮箱：<br/>
