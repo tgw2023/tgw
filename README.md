@@ -65,13 +65,6 @@ def Init():
         tgw.IGMDApi_Release()
         exit(-1)
 
-
-def CtrlC(signum, frame):
-    print("bey bey")
-    global g_is_running
-    g_is_running = False
-
-
 if __name__ == "__main__":
     signal.signal(signal.SIGINT, CtrlC)
     signal.signal(signal.SIGTERM, CtrlC)
