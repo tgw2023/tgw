@@ -34,9 +34,9 @@
 *   港股市场波动调节机制(VCM)推送数据<br> 
 
 # 2.Python 库安装
-（1）从pypi库安装<br> 
+（1）使用pypi库安装<br> 
     pip install tgw<br> 
-（2）从wheel文件安装<br> 
+（2）使用wheel文件安装<br> 
     下载wheel文件后 pip install tgw-***.whl <br> 
  
 # 3.Python api调用的主要代码demo
