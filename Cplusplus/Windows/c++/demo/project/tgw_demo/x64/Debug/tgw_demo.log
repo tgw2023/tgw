@@ -1,6 +1,0 @@
-﻿  tgw_push_spi.cpp
-F:\格物\SDK\最新\Cplusplus\Windows\c++\include\tgw.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-F:\格物\SDK\最新\Cplusplus\Windows\c++\include\tgw_struct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-F:\格物\SDK\最新\Cplusplus\Windows\c++\include\tgw_datatype.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-F:\格物\SDK\最新\Cplusplus\Windows\c++\include\tgw_struct.h(429,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  tgw_demo.vcxproj -> F:\格物\SDK\最新\Cplusplus\Windows\c++\demo\project\x64\Debug\tgw_demo.exe
