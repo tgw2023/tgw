@@ -115,7 +115,7 @@ if __name__ == "__main__":
 （1）试用权限开通，可登录官网自助注册<br/>
    官网： http://www.chinastock.com.cn/newsite/cgs-services/strategyTrade/geWuInstitution.html <br/>
    流程如下：<br/>
-                       ![]([https://github.com/tgw2023/tgw/blob/main/picture/%E8%AF%95%E7%94%A8%E8%B4%A6%E6%88%B7%E5%BC%80%E9%80%9A%E6%B5%81%E7%A8%8B.jpg](https://github.com/tgw2023/tgw/blob/main/picture/%E8%AF%95%E7%94%A8%E8%B4%A6%E6%88%B7%E5%BC%80%E9%80%9A%E6%B5%81%E7%A8%8B%20.jpg)) <br> 
+                       ![](https://github.com/tgw2023/tgw/blob/main/picture/%E8%AF%95%E7%94%A8%E8%B4%A6%E6%88%B7%E5%BC%80%E9%80%9A%E6%B5%81%E7%A8%8B%20.jpg) <br> 
 （2）正式权限开通请咨询中国银河证券营业部<br/>
 # 5.联系方式
 （1）格物官方联系企业微信：<br/>
