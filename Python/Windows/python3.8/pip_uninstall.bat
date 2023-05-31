@@ -1,0 +1,1 @@
+python -m pip3 uninstall tgw
