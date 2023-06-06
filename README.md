@@ -12,8 +12,8 @@
 
 （4）支持的数据包括： 	<br/>
 *   实时行情数据推送<br>
-$\qquad$K线数据（1/3/5/10/15/30/60/120分钟线/日/周/月/季年线）<br> 
-$\qquad$Level-1现货快照数据<br> 
+$\qquad$ K线数据（1/3/5/10/15/30/60/120分钟线/日/周/月/季年线）<br> 
+$\qquad$ Level-1现货快照数据<br> 
 $\qquad$指数快照数据<br> 
 $\qquad$期权快照数据<br> 
 $\qquad$期货快照数据<br> 
@@ -28,8 +28,8 @@ $\qquad$港股市场波动调节机制(VCM)推送数据<br>
 
 
 *   历史行情数据查询<br>
-$\qquad$K线历史数据（日/周/月/季年线、1/3/5/10/15/30/60/120分钟线/日/周/月/季年线）<br> 
-$\qquad$Level-1快照历史数据<br> 
+$\qquad$ K线历史数据（日/周/月/季年线、1/3/5/10/15/30/60/120分钟线/日/周/月/季年线）<br> 
+$\qquad$ Level-1快照历史数据<br> 
 
 *   行情基本信息数据查询<br>
 $\qquad$证券个股基本信息查询<br> 
@@ -39,28 +39,28 @@ $\qquad$复权因子表信息查询<br>
 
 
 *   股票基础信息<br>
-$\qquad$A股基本资料<br>
-$\qquad$A股行业分类<br>
+$\qquad$ A股基本资料<br>
+$\qquad$ A股行业分类<br>
 $\qquad$公司简介<br>
 $\qquad$股本结构<br>
 $\qquad$公司主营业务<br>
 $\qquad$历史股票列表<br>
 *   发行与上市<br>
-$\qquad$A股首次公开发行<br>
-$\qquad$A股增发数据<br>
+$\qquad$ A股首次公开发行<br>
+$\qquad$ A股增发数据<br>
 *   收益分配<br>
-$\qquad$A股股票分红<br>
-$\qquad$A股股票配股 <br>
+$\qquad$ A股股票分红<br>
+$\qquad$ A股股票配股 <br>
 *   股本与股东<br>
-$\qquad$A股十大股东名单<br>
+$\qquad$ A股十大股东名单<br>
 $\qquad$限售股解禁明细 <br>
 $\qquad$解禁数据 <br>
 $\qquad$股权持股冻结/质押情况<br>
 *   财务数据<br>
-$\qquad$A股资产负债表<br>
-$\qquad$A股利润表 <br>
-$\qquad$A股现金流表<br>
-$\qquad$A股财务指标<br>
+$\qquad$ A股资产负债表<br>
+$\qquad$ A股利润表 <br>
+$\qquad$ A股现金流表<br>
+$\qquad$ A股财务指标<br>
 *   日交易数据<br>
 $\qquad$交易日历 <br>
 $\qquad$个股资金流向<br>
@@ -73,7 +73,7 @@ $\qquad$融资融券成交汇总 <br>
 *   基金基本信息<br>
 $\qquad$基金最新指标<br>
 *   指数信息<br>
-$\qquad$A股指数成分股 <br>
+$\qquad$ A股指数成分股 <br>
 *   资讯数据信息<br>
 $\qquad$查询资讯数据更新日期<br>
 
