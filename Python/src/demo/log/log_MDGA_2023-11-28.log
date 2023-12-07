@@ -1,0 +1,12 @@
+
+===========MDGA start===========
+2023-11-28 16:                  23:41.920   MDGA Info  | Indicator check | IndicatorCollect inited success
+2023-11-28 16:                  23:41.920   MDGA Info  | Codelist check | CodeTablelistHandle init sucess
+2023-11-28 16:                  23:42.530   MDGA Info  | Init check | PushDistribute Init success
+2023-11-28 16:                  23:42.530   MDGA Info  | PushDistribute check | PushDistribute DistributeThread is start
+2023-11-28 16:                  23:42.531   MDGA Info  | PushDecoder check | PushDecoder thread <1> is start
+2023-11-28 16:                  23:42.531   MDGA Info  | Init | event 1 create success
+2023-11-28 16:                  23:42.540   MDGA Info  | Init | event 2 create success
+2023-11-28 16:                  23:42.540   MDGA Info  | Init check | PushDecoder Init success
+2023-11-28 16:                  23:42.540   MDGA Info  | PushDecoder check | PushDecoder thread <2> is start
+2023-11-28 16:                  23:42.540   MDGA Info  | PushImpl thread | PushImpl reconnect thread start

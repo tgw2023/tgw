@@ -1,0 +1,74 @@
+{
+    "Vip": "127.0.0.1",
+    "UseVip": "false",
+    "WriteLog": "true",
+    "GroupConfig": [
+        {
+            "GroupID": "1",
+            "QueueSize": "819200"
+        },
+        {
+            "GroupID": "2",
+            "QueueSize": "819200"
+        }
+    ],
+    "DataTypeConfig": [
+        {
+            "DataType": "MDSnapshot",
+            "GroupID": "1"
+        },
+        {
+            "DataType": "MDIndexSnapshot",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDOptionSnapshot",
+            "GroupID": "1"
+        },
+        {
+            "DataType": "MDHKTSnapshot",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDFutureSnapshot",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDAfterHourFixedPriceSnapshot",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDCSIIndexSnapshot",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDCnIndexSnapshot",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDHKTRealtimeLimit",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDHKTProductStatus",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDHKTVCM",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDSnapshotDerive",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "MDKline",
+            "GroupID": "2"
+        },
+        {
+            "DataType": "Other",
+            "GroupID": "1"
+        }
+    ]
+}
+
