@@ -1,1 +1,0 @@
-python -m pip uninstall tgw
